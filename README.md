@@ -1,2 +1,2 @@
 # HelloWorld
-This is test from Git installation 
+This is test for Git installation 
